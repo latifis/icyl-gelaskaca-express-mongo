@@ -1,0 +1,27 @@
+{
+  "name": "icyl-gelaskaca-express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latifis/icyl-gelaskaca-express-mongo.git"
+  },
+  "author": "latif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/latifis/icyl-gelaskaca-express-mongo/issues"
+  },
+  "homepage": "https://github.com/latifis/icyl-gelaskaca-express-mongo#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.6.5"
+  }
+}
